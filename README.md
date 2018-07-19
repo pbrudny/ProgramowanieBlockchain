@@ -4,7 +4,6 @@ Przykłady z tutorialu Programowanie Ethereum na kanale [Programowanie Blockchai
 
 ## Programowanie Ethereum
 * [Pierwszy Smart Contract](https://www.youtube.com/watch?v=W23biL2OyNA)
-* [Funkcja odczytująca]()
-* [Funkcja zapisująca]() 
+* [Funkcje - getter, setter](https://youtu.be/Aq-0txq5Lno)
 
 
