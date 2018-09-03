@@ -7,5 +7,6 @@ Przykłady z tutorialu Programowanie Ethereum na kanale [Programowanie Blockchai
 * [Funkcje - getter, setter](https://youtu.be/Aq-0txq5Lno)
 * [Instrukcje warunkowe](https://youtu.be/_rardgKgkXk)
 * [Modyfikatory](https://youtu.be/mUwlF2nugfM)
+* [Dziedziczenie](https://youtu.be/B3VAUQy2zLs)
 
 
