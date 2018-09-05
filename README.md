@@ -8,5 +8,8 @@ Przykłady z tutorialu Programowanie Ethereum na kanale [Programowanie Blockchai
 * [Instrukcje warunkowe](https://youtu.be/_rardgKgkXk)
 * [Modyfikatory](https://youtu.be/mUwlF2nugfM)
 * [Dziedziczenie](https://youtu.be/B3VAUQy2zLs)
+* [Najważniejsze pytanie blockchain developera](https://youtu.be/AzV1v6ZTO9g)
+* [Referendum]()
+* [Mapping]
 
 
