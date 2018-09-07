@@ -7,7 +7,7 @@ contract Referendum1 {
     address[] voted;
     
     modifier onlyOnce {
-        require(hasVoted(msg.sender) == false, "alread voted");
+        require(hasVoted(msg.sender) == false, "only one vote per person");
         _;
     }
     
