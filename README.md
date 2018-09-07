@@ -9,7 +9,7 @@ Przykłady z tutorialu Programowanie Ethereum na kanale [Programowanie Blockchai
 * [Modyfikatory](https://youtu.be/mUwlF2nugfM)
 * [Dziedziczenie](https://youtu.be/B3VAUQy2zLs)
 * [Najważniejsze pytanie blockchain developera](https://youtu.be/AzV1v6ZTO9g)
-* [Referendum - Inkrementacja]()
+* [Referendum - Inkrementacja](https://www.youtube.com/watch?v=EB8OdLE9jTQ)
 * [Referendum - Tablica](https://www.youtube.com/watch?v=-uAdbfeOD6M)
 
 
