@@ -12,7 +12,7 @@ Przykłady z tutorialu Programowanie Ethereum na kanale [Programowanie Blockchai
 * [Referendum - Inkrementacja](https://www.youtube.com/watch?v=EB8OdLE9jTQ)
 * [Referendum - Tablica](https://www.youtube.com/watch?v=-uAdbfeOD6M)
 * [Referendum - Mapping]()
-* [Referendum - Events]()
+* [Referendum - Events](https://www.youtube.com/watch?v=S79dS_3gfmk)
 
 
 
